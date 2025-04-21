@@ -1,0 +1,6 @@
+{
+    "zenMode.fullScreen": false,
+    "terminal.integrated.shellIntegration.decorationsEnabled": "both",
+    "accessibility.windowTitleOptimized": true,
+    "git.ignoreLimitWarning": true
+}
